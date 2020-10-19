@@ -16,6 +16,15 @@
 
 ### ⚡ Technologies
 
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steinert999&hide=html&layout=compact&theme=dracula&count_private=true" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Steinert999&theme=dracula&count_private=true"/></td>
+    </tr>   
+</table>
+</center> 
+
 These are some of the technologies and tools that I know a bit:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
